@@ -2,6 +2,7 @@
 ; Copyright © 1995-2010 Opera Software ASA. All rights reserved.
 ; Created on 2010-09-08 10:00 ; Dernière mise à jour par Pierre CREUSEVEAU, aka Ra-Mon (opera-fr.com), le 11/08/2012 bien aidé par l’outil « FileCompare by Totoffe » et les contributeurs d’opera-fr.com. Merci :)
 ; https://github.com/ra-mon/french.lng
+
 [Info]
 Language="fr"
 LanguageName="Français"
@@ -2891,7 +2892,7 @@ DB.version=1042
 -1983665562="J’accepte les termes de la licence"
 -1501348130="S’inscrire"
 -1488379430="Voir la licence"
-1364951359="Entrez, ci-dessous, l'identifiant et le mot de passe de votre compte MyOpera, ou cliquez sur « S’inscrire » afin de créer un nouveau compte."
+1364951359="Entrez, ci-dessous, l’identifiant et le mot de passe de votre compte MyOpera, ou cliquez sur « S’inscrire » afin de créer un nouveau compte."
 768265528="S’inscrire"
 -1583937278="Mon identifiant MyOpera"
 -1569491640="Impossible de créer un nouveau compte aujourd’hui"
