@@ -1,6 +1,6 @@
 ﻿; Opera language file version 2.0 ; Pour franciser une version anglaise d’Opera avec ce fichier : Tools > Preferences > General > Language > Details > User Interface language > Choose...
 ; Copyright © 1995-2010 Opera Software ASA. All rights reserved.
-; Created on 2010-09-08 10:00 ; Dernière mise à jour par Pierre CREUSEVEAU, aka Ra-Mon (opera-fr.com), le 11/08/2012 bien aidé par l’outil « FileCompare by Totoffe » et les contributeurs d’opera-fr.com. Merci :)
+; Created on 2010-09-08 10:00 ; Dernière mise à jour par Pierre CREUSEVEAU, aka Ra-Mon (opera-fr.com), le 20/08/2012 bien aidé par l’outil « FileCompare by Totoffe » et les contributeurs d’opera-fr.com. Merci :)
 ; https://github.com/ra-mon/french.lng
 
 [Info]
@@ -1693,7 +1693,7 @@ DB.version=1042
 -1929790704="Mises à jour plus lentes"
 2054442678="Appli. Unite ou extensions : "
 1298900318="Ouvrir avec l’application web"
-2017604239="Erreur d’accés au fichier"
+2017604239="Erreur d’accès au fichier"
 -535320438="Fichier pas encore enregistré"
 -581586258="Options par défaut pour le courrier"
 158169038="Options pour cette vue"
@@ -4006,7 +4006,7 @@ DB.version=1042
 -344383168="Arabe"
 1972531063="ISO-8859-6"
 -1401263111="Windows-1256"
--1006843134="Hebreu"
+-1006843134="Hébreu"
 1972531065="ISO-8859-8"
 -1586430102="ISO-8859-8 (Visuel)"
 -1401263112="Windows-1255"
