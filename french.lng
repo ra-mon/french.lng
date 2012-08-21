@@ -1,6 +1,6 @@
 ﻿; Opera language file version 2.0 ; Pour franciser une version anglaise d’Opera avec ce fichier : Tools > Preferences > General > Language > Details > User Interface language > Choose...
 ; Copyright © 1995-2010 Opera Software ASA. All rights reserved.
-; Created on 2010-09-08 10:00 ; Dernière mise à jour par Pierre CREUSEVEAU, aka Ra-Mon (opera-fr.com), le 20/08/2012 bien aidé par l’outil « FileCompare by Totoffe » et les contributeurs d’opera-fr.com. Merci :)
+; Created on 2010-09-08 10:00 ; Dernière mise à jour par Pierre CREUSEVEAU, aka Ra-Mon (opera-fr.com), le 21/08/2012 bien aidé par l’outil « FileCompare by Totoffe » et les contributeurs d’opera-fr.com. Merci :)
 ; https://github.com/ra-mon/french.lng
 
 [Info]
@@ -518,7 +518,7 @@ DB.version=1042
 -1817811090="Voulez-vous importer la clé privée et ses certificats associés ?"
 1514024393="Voulez-vous importer la clé privée contenue dans ce fichier ?"
 -1769113189="La configuration automatique du proxy a échoué. \nLa configuration du proxy est désactivée pour cette session."
-857858150="Vous pouvez effectuer des recherches Web dans le champ d’adresse"
+857858150="Vous pouvez effectuer des recherches Web via la barre d’adresses"
 -953386095="Contenu du cadre non affiché"
 958355689="Impossible d’afficher le contenu. <a href="%s">Téléchargement %s.</a>"
 -1956656936="Chargement d’un élément externe <a href="%s">%s</a> supprimé (cliquez pour l’afficher)."
