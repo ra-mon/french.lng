@@ -1,6 +1,6 @@
 ﻿; Opera language file version 2.0 ; Pour franciser une version anglaise d’Opera avec ce fichier : Tools > Preferences > General > Language > Details > User Interface language > Choose...
 ; Copyright © 1995-2010 Opera Software ASA. All rights reserved.
-; Created on 2010-09-08 10:00 ; Dernière mise à jour par Pierre CREUSEVEAU, aka Ra-Mon (opera-fr.com), le 21/08/2012 bien aidé par l’outil « FileCompare by Totoffe » et les contributeurs d’opera-fr.com. Merci :)
+; Created on 2010-09-08 10:00 ; Dernière mise à jour par Pierre CREUSEVEAU, aka Ra-Mon (opera-fr.com), le 22/08/2012 bien aidé par l’outil « FileCompare by Totoffe » et les contributeurs d’opera-fr.com. Merci :)
 ; https://github.com/ra-mon/french.lng
 
 [Info]
@@ -2954,7 +2954,7 @@ DB.version=1042
 -2116528654="Détails"
 -759707936="Certificats rejetés"
 1532149431="Effacer le dossier cible"
-1608230842="Le dossier %s existe sur la cible. Le supprimer ici provoquera aussi sa sur l’autre équipement. Souhaitez-vous continuer ?"
+1608230842="Le dossier %s existe sur la cible. Le supprimer ici provoquera aussi sa suppression sur l’autre équipement. Souhaitez-vous continuer ?"
 -2099374243="Effacer le dossier sur Opera Mini"
 -714374240="Supprimer le dossier Opera Mini effacera tous les signets sur le téléphone mobile. Souhaitez-vous continuer ?"
 -1514511917="Options avancées"
