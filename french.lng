@@ -1,6 +1,6 @@
 ﻿; Opera language file version 2.0 ; Pour franciser une version anglaise d’Opera avec ce fichier : Tools > Preferences > General > Language > Details > User Interface language > Choose...
 ; Copyright © 1995-2010 Opera Software ASA. All rights reserved.
-; Created on 2010-09-08 10:00 ; Dernière mise à jour par Pierre CREUSEVEAU, aka Ra-Mon (opera-fr.com), le 22/08/2012 bien aidé par l’outil « FileCompare by Totoffe » et les contributeurs d’opera-fr.com. Merci :)
+; Created on 2010-09-08 10:00 ; Dernière mise à jour par Pierre CREUSEVEAU, aka Ra-Mon (opera-fr.com), le 28/08/2012 bien aidé par l’outil « FileCompare by Totoffe » et les contributeurs d’opera-fr.com. Merci :)
 ; https://github.com/ra-mon/french.lng
 
 [Info]
@@ -8,9 +8,9 @@ Language="fr"
 LanguageName="Français"
 Charset="utf-8"
 Direction=0
-Build.Win=1546
+Build.Win=1577
 Version.Win=12.50
-DB.version=1042
+DB.version=1043
 
 [Translation]
 
@@ -1623,6 +1623,7 @@ DB.version=1042
 -1648519769="Appliquer pour tous les courriers reçus de %s"
 281622554="Charger les images externes pour ce contact"
 1766833635="Sans titre"
+1377031446="En savoir davantage sur cette page"
 -10715994="Ajouter aux signets"
 2005891210="Accélération GPU"
 86694525="Vous devez télécharger et installer le plug-in %s pour afficher cette page correctement."
@@ -1693,8 +1694,7 @@ DB.version=1042
 -1929790704="Mises à jour plus lentes"
 2054442678="Appli. Unite ou extensions : "
 1298900318="Ouvrir avec l’application Web"
-2017604239="Erreur d’accès au fichier"
--535320438="Fichier pas encore enregistré"
+
 -581586258="Options par défaut pour le courrier"
 158169038="Options pour cette vue"
 -1663847816="Retour à %s"
@@ -1717,6 +1717,15 @@ DB.version=1042
 -283206923="Dernier compte utilisé"
 1372188449=""
 1326796766=""
+652239435="Signets"
+-1028907636="Aucune occurence trouvée"
+-572301535="Dossier vide"
+-1354724407="Récemment ajouté"
+-63949773="Tous les signets"
+-1697209847="Supprimé"
+279154684="Speed Dial"
+602749156="Historique"
+-815145619="Onglets ouverts"
 669038251="Sélectionnez « Déroger aux réglages par défaut » pour modifier les critères de tri, d’affichage ou de regroupement de chaque vue."
 1643373407="Épingler des messages"
 669038252="Vous pouvez maintenant marquer les messages importants en cliquant sur l’icône en forme d’épingle à côté de la date dans l’en-tête. Votre message épinglé apparaîtra dans une vue dédiée pour un accès plus facile.\n\nLes messages épinglés sont équivalents aux étoiles ou fanions qu’il est possible de positionner chez certains fournisseurs de services de messagerie."
@@ -1732,6 +1741,7 @@ DB.version=1042
 -1011037045="Tous les flux"
 -841865910="Plusieurs fichiers existent déjà dans le dossier spécifié. Souhaitez-vous les remplacer ?"
 -885765126="Détacher le message"
+1135531398="Le dossier est vide"
 -827069684="Le fichier existe déjà. Souhaitez-vous le remplacer ?"
 1567589238="Vidéo lancée en utilisant la caméra : %1"
 -901634616="Téléchargement du fichier '%s' terminé"
@@ -2415,7 +2425,6 @@ DB.version=1042
 1798229294="Nouvelle règle"
 157340274="Enlever une règle"
 -1613937223="Marquer les messages comme filtrés"
-2036309980="Limiter le filtre aux messages du parent"
 1393273373="Entrer un nouveau surnom"
 2036801944="Mot de passe requis"
 836858572="Seuls les opérateurs peuvent modifier le sujet"
@@ -3844,6 +3853,12 @@ DB.version=1042
 -633698310="Flottant"
 274704506="Pressez la touche « Entrée » pour rechercher avec %1"
 1697124443="Pressez la touche « Entrée » pour lancer la recherche"
+-2003251715="Tri par défaut"
+-413548373="Titre"
+-1303270523="Dossier"
+1634866991="Adresse"
+220252783="Surnom"
+-824019891="Description"
 -99746150="Caméra"
 -694345435="Géolocalisation"
 848499041="Options d’accès"
@@ -3871,6 +3886,9 @@ DB.version=1042
 -1957713594="Description de l’erreur (facultatif)"
 -648781056="Dernière page visitée"
 -1277898113="Commentaires"
+-258347601="Afficher dans le panneau latéral"
+920290537="Afficher dans la barre de signets"
+165069630="Pressez la touche « Esc » pour sortir du mode plein écran"
 97638156="Adresse de courrier électronique pour vous contacter"
 153326921="%1 souhaite accéder à votre caméra. Acceptez-vous ?"
 -100757311="Autoriser l’accès au presse-papier"
@@ -4653,6 +4671,16 @@ DB.version=1042
 -1576594329="Afficher les doublons"
 -437356798="Resynchroniser tous les messages"
 -2010427618="Panneau Web"
+894925243="Trier par date"
+895284382="Trier par nom"
+1255419298="Tout recharger"
+-1176230971="Nouveau dossier"
+435626111="Nouveau signet"
+-162428293="Vider les signets supprimés"
+-1222825668="Ouvrir"
+2035318212="Recharger"
+-1223197968="Modifier"
+-660580547="Supprimer"
 -32821537="Répondre à"
 -143649930="Afficher les messages de ce contact"
 1004936474="Marquer et aller au message non lu précédent"
