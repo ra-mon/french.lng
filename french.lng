@@ -1,6 +1,6 @@
 ﻿; Opera language file version 2.0 ; Pour franciser une version anglaise d’Opera avec ce fichier : Tools > Preferences > General > Language > Details > User Interface language > Choose...
 ; Copyright © 1995-2010 Opera Software ASA. All rights reserved.
-; Created on 2010-09-08 10:00 ; Dernière mise à jour par Pierre CREUSEVEAU, aka Ra-Mon (opera-fr.com), le 28/08/2012 bien aidé par l’outil « FileCompare by Totoffe » et les contributeurs d’opera-fr.com. Merci :)
+; Created on 2010-09-08 10:00 ; Dernière mise à jour par Pierre CREUSEVEAU, aka Ra-Mon (opera-fr.com), le 11/09/2012 bien aidé par l’outil « FileCompare by Totoffe » et les contributeurs d’opera-fr.com. Merci :)
 ; https://github.com/ra-mon/french.lng
 
 [Info]
@@ -8,7 +8,7 @@ Language="fr"
 LanguageName="Français"
 Charset="utf-8"
 Direction=0
-Build.Win=1577
+Build.Win=1583
 Version.Win=12.50
 DB.version=1043
 
@@ -1694,7 +1694,6 @@ DB.version=1043
 -1929790704="Mises à jour plus lentes"
 2054442678="Appli. Unite ou extensions : "
 1298900318="Ouvrir avec l’application Web"
-
 -581586258="Options par défaut pour le courrier"
 158169038="Options pour cette vue"
 -1663847816="Retour à %s"
@@ -3725,9 +3724,7 @@ DB.version=1043
 1869489980="Recharger la page"
 -836309467="Jamais pour ce plug-in"
 2007549699="Lancer l’installeur"
--410658696="Extensions pour Opera en provenance d’un dépôt non fiable"
--1192497647="Attention : L’extension pour Opera que vous avez sélectionnée n’est pas stockée dans un dépôt de confiance.\n\nSouhaitez-vous la télécharger et l’installer ?"
-975869131="Une mise à jour est disponible pour l’extension : %s\n\n"
+
 -1095908725="L’installeur d’Opera ne peut pas obtenir de privilège  « Administrateur » lorsque l’UAC est désactivé. Merci de lancer l’installeur depuis un compte « Administrateur »."
 1371862448="Redémarrage de l’ordinateur nécessaire"
 1664344399="Votre système d’exploitation doit être redémarré afin de terminer l’installation d’Opera. Souhaitez-vous redémarrer maintenant ?"
@@ -3768,8 +3765,7 @@ DB.version=1043
 -1323396886="Intégration au menu démarrer et support MAPI"
 2005931227="L’installeur MSI n’a pas pu supprimer la version précédente d’Opera."
 2038146828="Votre système d’exploitation doit être redémarré afin de terminer l’installation d’Opera. L’installation reprendra lorsque votre système aura redémarré."
--410333928="Toujours autoriser les installations depuis cet emplacement"
-1486187463="Vous pouvez modifier la liste des sites de confiance dans les préférences"
+
 1450342325="Êtes-vous sûr(e) de vouloir désinstaller %s ?"
 1311396616="Mise à jour d’extension disponible"
 -1293176727="Extensions pour Opera"
@@ -3888,6 +3884,8 @@ DB.version=1043
 -1277898113="Commentaires"
 -258347601="Afficher dans le panneau latéral"
 920290537="Afficher dans la barre de signets"
+563761725="Installation bloquée"
+422050118="Pour votre sécurité, vous ne pouvez télécharger des extensions que sur addons.opera.com."
 165069630="Pressez la touche « Esc » pour sortir du mode plein écran"
 97638156="Adresse de courrier électronique pour vous contacter"
 153326921="%1 souhaite accéder à votre caméra. Acceptez-vous ?"
