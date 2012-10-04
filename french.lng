@@ -1,6 +1,6 @@
 ﻿; Opera language file version 2.0 ; Pour franciser une version anglaise d’Opera avec ce fichier : Tools > Preferences > General > Language > Details > User Interface language > Choose...
 ; Copyright © 1995-2010 Opera Software ASA. All rights reserved.
-; Created on 2010-09-08 10:00 ; Dernière mise à jour par Pierre CREUSEVEAU, aka Ra-Mon (opera-fr.com), le 14/09/2012 bien aidé par l’outil « FileCompare by Totoffe » et les contributeurs d’opera-fr.com. Merci :)
+; Created on 2010-09-08 10:00 ; Dernière mise à jour par Pierre CREUSEVEAU, aka Ra-Mon (opera-fr.com), le 04/10/2012 bien aidé par l’outil « FileCompare by Totoffe » et les contributeurs d’opera-fr.com. Merci :)
 ; https://github.com/ra-mon/french.lng
 
 [Info]
@@ -8,9 +8,9 @@ Language="fr"
 LanguageName="Français"
 Charset="utf-8"
 Direction=0
-Build.Win=1593
+Build.Win=1618
 Version.Win=12.10
-DB.version=1043
+DB.version=1046
 
 [Translation]
 
@@ -226,6 +226,7 @@ DB.version=1043
 -987128712="Échec de la transmission."
 -573306081="Certificat invalide ou non vérifiable."
 2063851617="Le certificat est inconnu."
+1744241458="Le certificat n’est pas connu par son fournisseur supposé. Il n’est pas valide. Dans le pire des cas, il pourrait être utilisé à des fins malveillantes. Le responsable du site Web doit immédiatement remplacer ce certificat."
 912684264="Le certificat a été révoqué par son émetteur."
 2039718793="Le certificat a expiré."
 831263304="Le certificat est inconnu."
@@ -1008,7 +1009,6 @@ DB.version=1043
 -371513372="Signature"
 -1154642790="Réglages enregistrés"
 1871184022="Aucune modification à enregistrer dans cette section"
-
 -2092204962="Encodage"
 -341312310="Groupe"
 -2011460894="Télécharge l’extension"
@@ -1724,7 +1724,6 @@ DB.version=1043
 602749156="Historique"
 -815145619="Onglets ouverts"
 669038251="Sélectionnez « Déroger aux réglages par défaut » pour modifier les critères de tri, d’affichage ou de regroupement de chaque vue."
--1216203037="Architecture"
 1643373407="Épingler des messages"
 669038252="Vous pouvez maintenant marquer les messages importants en cliquant sur l’icône en forme d’épingle à côté de la date dans l’en-tête. Votre message épinglé apparaîtra dans une vue dédiée pour un accès plus facile.\n\nLes messages épinglés sont équivalents aux étoiles ou fanions qu’il est possible de positionner chez certains fournisseurs de services de messagerie."
 790640785="Pour plus d’informations, consultez les ressources suivantes :"
@@ -1734,6 +1733,7 @@ DB.version=1043
 1919676723="non native"
 -231017911="Téléchargement de l’extension"
 -1513734208="Le plug-in a planté."
+-1911353897="Menu Partages"
 -1664226119="Rechercher des articles"
 -1335682398="Afficher les détails"
 -1011037045="Tous les flux"
@@ -2325,7 +2325,6 @@ DB.version=1043
 -1632714434="Activer les styles de formulaires"
 -1129052357="Activer les styles de barres de défilement"
 
-
 -435323275="L’enregistrement a échoué"
 -169802367="Impossible d’enregistrer le fichier de signets"
 1887553789="Essayer à nouveau ?"
@@ -2365,8 +2364,6 @@ DB.version=1043
 -1471440420="Insérer"
 -466759489="Arrêt défil."
 -1697935102="Personnalisée"
-
-
 
 607478865="Erreur d’encodage"
 -1948757080="Ces caractères ne peuvent être envoyés avec les réglages actuels. Désirez-vous envoyer ce message en Unicode (UTF-8) ? Si vous sélectionnez « Non », les caractères suivants seront transformés en points d’interrogation.\n\n%s"
@@ -2507,13 +2504,9 @@ DB.version=1043
 -1645859348="Compte nécessaire"
 
 
-
-
-
 216227765="L’information reçue sur la version du document ne peut être lue."
 1324867398="Impossible de se connecter au serveur pour obtenir des informations sur la dernière version disponible."
 85274702="Importation terminée."
-
 -1931057420="Personnaliser"
 -341120270="Panneaux"
 906330811="Sélectionnez les panneaux à afficher"
@@ -2533,8 +2526,6 @@ DB.version=1043
 -1947317945="Permettre au script de cacher la barre d’adresses"
 658922130="Utiliser la page actuelle"
 621616780="Thème de couleurs"
-
-
 
 354948565="Rapporter un problème sur un site"
 -919951574="Adresse de la page"
@@ -2730,7 +2721,6 @@ DB.version=1043
 1874915862="Afficher le nom et l’adresse des contacts"
 1581692330="Nom de l’en-tête"
 1217197100="Ajouter un en-tête personnalisé"
-
 73729813="Le surnom %s est déjà utilisé. Entrez-en un nouveau."
 706412336="Impossible de trouver le fichier %1"
 545849272="Serveur proxy requis"
@@ -4300,7 +4290,6 @@ DB.version=1043
 400515521="Signets en HTML..."
 -116109775="Info"
 469325262="Notes"
-
 
 -1033798981="Rétablir"
 1024210290="Suivant"
