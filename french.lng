@@ -1,6 +1,6 @@
 ﻿; Opera language file version 2.0 ; Pour franciser une version anglaise d’Opera avec ce fichier : Tools > Preferences > General > Language > Details > User Interface language > Choose...
 ; Copyright © 1995-2010 Opera Software ASA. All rights reserved.
-; Created on 2010-09-08 10:00 ; Dernière mise à jour par Pierre CREUSEVEAU, aka Ra-Mon (opera-fr.com), le 04/10/2012 bien aidé par l’outil « FileCompare by Totoffe » et les contributeurs d’opera-fr.com. Merci :)
+; Created on 2010-09-08 10:00 ; Dernière mise à jour par Pierre CREUSEVEAU, aka Ra-Mon (opera-fr.com), le 15/10/2012 bien aidé par l’outil « FileCompare by Totoffe » et les contributeurs d’opera-fr.com. Merci :)
 ; https://github.com/ra-mon/french.lng
 
 [Info]
@@ -8,7 +8,7 @@ Language="fr"
 LanguageName="Français"
 Charset="utf-8"
 Direction=0
-Build.Win=1618
+Build.Win=1624
 Version.Win=12.10
 DB.version=1046
 
@@ -2324,7 +2324,6 @@ DB.version=1046
 1952261132="Mode par défaut"
 -1632714434="Activer les styles de formulaires"
 -1129052357="Activer les styles de barres de défilement"
-
 -435323275="L’enregistrement a échoué"
 -169802367="Impossible d’enregistrer le fichier de signets"
 1887553789="Essayer à nouveau ?"
@@ -2364,7 +2363,6 @@ DB.version=1046
 -1471440420="Insérer"
 -466759489="Arrêt défil."
 -1697935102="Personnalisée"
-
 607478865="Erreur d’encodage"
 -1948757080="Ces caractères ne peuvent être envoyés avec les réglages actuels. Désirez-vous envoyer ce message en Unicode (UTF-8) ? Si vous sélectionnez « Non », les caractères suivants seront transformés en points d’interrogation.\n\n%s"
 -41907442="Pages (de-à)"
@@ -2503,7 +2501,6 @@ DB.version=1046
 1631718152="Vous devez créer un compte avant de pouvoir continuer.\nVoulez-vous en créer un maintenant ?"
 -1645859348="Compte nécessaire"
 
-
 216227765="L’information reçue sur la version du document ne peut être lue."
 1324867398="Impossible de se connecter au serveur pour obtenir des informations sur la dernière version disponible."
 85274702="Importation terminée."
@@ -2526,7 +2523,6 @@ DB.version=1046
 -1947317945="Permettre au script de cacher la barre d’adresses"
 658922130="Utiliser la page actuelle"
 621616780="Thème de couleurs"
-
 354948565="Rapporter un problème sur un site"
 -919951574="Adresse de la page"
 -261638842="Commentaire"
@@ -3949,7 +3945,6 @@ DB.version=1046
 1234417673="Unicode"
 -209254816="UTF-8"
 1684525487="UTF-16"
--1739032771="UTF-7"
 453393450="ASCII US"
 1311766747="Europe de l’Ouest"
 1972531058="ISO-8859-1"
@@ -3967,7 +3962,6 @@ DB.version=1046
 1972531061="ISO-8859-4"
 1486047563="Nordique"
 669015522="ISO-8859-10"
-774564213="Windows-Sami-2"
 161127631="Celtique"
 669015526="ISO-8859-14"
 -1338073117="Turc"
@@ -3976,7 +3970,6 @@ DB.version=1046
 402612548="Vietnamien"
 -1401263109="Windows-1258"
 -218656032="VISCII"
--1744653808="VPS"
 -13153185="Cyrillique"
 1972531062="ISO-8859-5"
 -642400443="KOI8-R"
@@ -4290,7 +4283,6 @@ DB.version=1046
 400515521="Signets en HTML..."
 -116109775="Info"
 469325262="Notes"
-
 -1033798981="Rétablir"
 1024210290="Suivant"
 -822252908="Image suivante"
