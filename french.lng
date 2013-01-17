@@ -1,6 +1,6 @@
 ﻿; Opera language file version 2.0 ; Pour franciser une version anglaise d’Opera avec ce fichier : Tools > Preferences > General > Language > Details > User Interface language > Choose...
 ; Copyright © 1995-2010 Opera Software ASA. All rights reserved.
-; Created on 2010-09-08 10:00 ; Dernière mise à jour par Pierre CREUSEVEAU, aka Ra-Mon (opera-fr.com), le 24/10/2012 bien aidé par l’outil « FileCompare by Totoffe » et les contributeurs d’opera-fr.com. Merci :)
+; Created on 2010-09-08 10:00 ; Dernière mise à jour par Pierre CREUSEVEAU, aka Ra-Mon (opera-fr.com), le 17/01/2013 bien aidé par l’outil « FileCompare by Totoffe » et les contributeurs d’opera-fr.com. Merci :)
 ; https://github.com/ra-mon/french.lng
 
 [Info]
@@ -8,8 +8,8 @@ Language="fr"
 LanguageName="Français"
 Charset="utf-8"
 Direction=0
-Build.Win=1639
-Version.Win=12.10
+Build.Win=1721
+Version.Win=12.13
 DB.version=1046
 
 [Translation]
@@ -3852,6 +3852,9 @@ DB.version=1046
 165069630="Pressez la touche « Esc » pour sortir du mode plein écran"
 -1039186682="Adresse de courrier électronique invalide"
 1944937439="Les adresses suivantes sont incorrectes :\n\n%s\nVeuillez les corriger et essayer à nouveau"
+1490145808="Supprimer les réglages et données pour toutes les extensions"
+2036826892="Défauts"
+10324627="Faire de Yandex le moteur de recherche par défaut dans tous les navigateurs"
 97638156="Adresse de courrier électronique pour vous contacter"
 153326921="%1 souhaite accéder à votre caméra. Acceptez-vous ?"
 -100757311="Autoriser l’accès au presse-papier"
