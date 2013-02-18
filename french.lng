@@ -1,6 +1,6 @@
 ﻿; Opera language file version 2.0 ; Pour franciser une version anglaise d’Opera avec ce fichier : Tools > Preferences > General > Language > Details > User Interface language > Choose...
 ; Copyright © 1995-2010 Opera Software ASA. All rights reserved.
-; Created on 2010-09-08 10:00 ; Dernière mise à jour par Pierre CREUSEVEAU, aka Ra-Mon (opera-fr.com), le 17/01/2013 bien aidé par l’outil « FileCompare by Totoffe » et les contributeurs d’opera-fr.com. Merci :)
+; Created on 2010-09-08 10:00 ; Dernière mise à jour par Pierre CREUSEVEAU, aka Ra-Mon (opera-fr.com), le 18/02/2013 bien aidé par l’outil « FileCompare by Totoffe » et les contributeurs d’opera-fr.com. Merci :)
 ; https://github.com/ra-mon/french.lng
 
 [Info]
@@ -8,8 +8,8 @@ Language="fr"
 LanguageName="Français"
 Charset="utf-8"
 Direction=0
-Build.Win=1721
-Version.Win=12.13
+Build.Win=1738
+Version.Win=12.14
 DB.version=1046
 
 [Translation]
@@ -114,7 +114,7 @@ DB.version=1046
 143957063="Mot clé"
 -475340800="<Défaut>"
 -1988219522="Recherche %s"
-943043206="Évènement"
+943043206="Événement"
 2018876050="Fichier son"
 912272472="Serveur inconnu"
 1849271768="Document : "
@@ -470,7 +470,7 @@ DB.version=1046
 -63928757="Choisir le dossier dans lequel seront enregistrés les fichiers"
 80168480="Version"
 468601187="Révision"
-1813791800="Plateforme"
+1813791800="Plate-forme"
 -1908045493="Informations sur la version"
 1523437109="Système"
 -1360722636="Un problème est survenu lorsqu’Opera a essayé de se connecter à votre imprimante. Veuillez vérifier les réglages associés. Si vous utilisez une imprimante réseau, veuillez vérifier la connexion."
@@ -593,7 +593,7 @@ DB.version=1046
 -643484333="Nouveau filtre"
 -106198979="Le fichier n’est pas valide"
 95649339="Importé"
--1019061060="Déja importé"
+-1019061060="Déjà importé"
 1407566304="Importer l’élément"
 -287776209="<...>"
 1607346661="Le fichier est déjà en cours de téléchargement"
@@ -855,7 +855,7 @@ DB.version=1046
 1882483772="Fichiers MP3 |*.mp3|"
 -93919767="Protocole"
 1949547324="Ajoute un nouveau bouton avec l’action\n\n%s\n\nÊtes-vous sûr(e) ?"
-1251422638="Le bouton que vous êtes en train d’ajouter est destiné à lancer un programme externe. Ce programme ne sera pas contrôlé par Opera et pourra s’avérer dangeureux.\n\n%s\n\nSouhaitez-vous continuer ?"
+1251422638="Le bouton que vous êtes en train d’ajouter est destiné à lancer un programme externe. Ce programme ne sera pas contrôlé par Opera et pourra s’avérer dangereux.\n\n%s\n\nSouhaitez-vous continuer ?"
 -1165861871="Nouveau bouton"
 919933899="Envoyé avec l’innovant client de messagerie Opera Mail : http://www.opera.com/mail/"
 1606080971="Vide la corbeille"
@@ -896,7 +896,7 @@ DB.version=1046
 -427372281="Flux RSS"
 -1034142199="%s [%s] (Importés)/%s"
 -1468588607="(%s) -l’import a échoué, [err=%i]\n Id:%s\n De:%s"
--159267853=" déja importé"
+-159267853=" déjà importé"
 969263664=" conversion en cours. Veuillez patienter..."
 -781606758="AVERTISSEMENT d’import OE"
 -2102437032="(%s) -boite vide sautée"
@@ -1715,7 +1715,7 @@ DB.version=1046
 1372188449=""
 1326796766=""
 652239435="Signets"
--1028907636="Aucune occurence trouvée"
+-1028907636="Aucune occurrence trouvée"
 -572301535="Dossier vide"
 -1354724407="Récemment ajouté"
 -63949773="Tous les signets"
@@ -2955,7 +2955,7 @@ DB.version=1046
 1059159403="Mise à jour en cours..."
 2039858354="Erreur du client de courrier"
 9606814="Ouvrir la console"
--1006784625="Echec d’identification pour %s"
+-1006784625="Échec d’identification pour %s"
 71919270="Le serveur a répondu : %s"
 -120454265="Réessayer"
 59398438="Détails d’identification"
@@ -3005,7 +3005,7 @@ DB.version=1046
 756000517="Trop d’éléments dans le dossier"
 -497697208="Ce dossier ne peut contenir que %d éléments. Si vous souhaitez ajouter plus d’éléments, vous allez devoir supprimer des éléments existants au préalable."
 -1141551736="Serveur proxy"
-41705859="Authentication proxy"
+41705859="Authentification proxy"
 -694984494="Autoriser le bloqueur de contenu"
 997440094="Description"
 412383988="Widgets"
@@ -3361,7 +3361,7 @@ DB.version=1046
 -1701764684="Êtes-vous sûr(e) de vouloir supprimer définitivement cette application ?"
 1916204770="Configuration avancée..."
 -1912541487="Débit montant :"
--917070158="Paramètrages avancés"
+-917070158="Paramétrages avancés"
 -408216780="Options de visibilité"
 -1314730837="Rendre cette application visible sur les sites Web Opera Unite"
 -435728778="Rendre cette application visible sur votre réseau local, en utilisant UPnP"
